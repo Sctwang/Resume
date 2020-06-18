@@ -1,9 +1,9 @@
  <center>
-     <h1>王宇哲</h1>
+     <h1>XXX</h1>
      <div>
          <span>
              <img src="assets/phone-solid.svg" width="18px">
-             15035112457
+             150xxxxxxxx
          </span>
          ·
          <span>
@@ -43,11 +43,11 @@
 - 了解**常用的设计模式**、熟练使用 **Maven** 项目构建工具，构建聚合工程
 - 熟练使用 **Linux** 常用命令，掌握 **Nginx** 的使用方法及负载均衡策略
 - 掌握基本的数据结构和算法，有微服务实际经验，熟悉 **SpringCloud** 
-- 熟悉 TCP/IP 协议，熟悉 HCNP 相关知识技能，喜欢网络通信，有过小型网络规划经历
+- 熟悉 TCP/IP 协议，熟悉 HCNP 相关知识技能，喜欢网络通信，参与过小型网络规划
 
 ## <img src="assets/briefcase-solid.svg" width="30px"> 工作经历
 
-- **上海汉得信息技术股份有限公司，应用管理服务中心 . 数字创新部 . 技术顾问，2018.7 - 至今**
+- **上海xxxx技术股份有限公司，2018.7 - 至今**
 
 ## <img src="assets/project-diagram-solid.svg" width="30px"> 项目经历
 
@@ -90,5 +90,5 @@
 
 ## <img src="assets/graduation-cap-solid.svg" width="30px"> 教育经历
 
-- 学士，太原科技大学，计算机科学与技术学院，物联网工程专业，2015.9 - 2019.7
+- 学士，xxxx大学，计算机科学与技术学院，物联网工程专业，2015.9 - 2019.7
 - 通过了 CET - 4 英语等级考试
