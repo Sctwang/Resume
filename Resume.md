@@ -43,7 +43,7 @@
 
 - **数据补录平台（2020.3 - 至今）**
 
-  **项目描述：**项目主要实现 Excel 文件的导入导出，并将数据调度到数仓，并稳定运行等
+  **项目描述：**项目主要实现 Excel 文件的导入导出，并将数据调度到数据仓库，并稳定运行等
 
   **项目技术栈**：SpringMVC + MyBatis + PostgreSQL + Oracle + Redis + KendoUI + Kettle
   
