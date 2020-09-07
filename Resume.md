@@ -10,11 +10,6 @@
              <img src="assets/envelope-solid.svg" width="18px">
              xxx
          </span>
-         ·
-         <span>
-             <img src="assets/note.svg" width="20px">
-             <a href="https://sctwang.github.io/docsify/">My Blog</a>
-         </span>
      </div>
  </center>
 
